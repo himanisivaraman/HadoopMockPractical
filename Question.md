@@ -1,1 +1,2 @@
 Explain Hadoop Architecture. 
+
